@@ -28,3 +28,7 @@ and run below for cleanout
 ```
 docker-compose down --rmi all
 ```
+
+## Demo
+![demo](https://github.com/thomas-chiang/api_creation/assets/84237929/0aa22e6d-ac81-4a3f-a485-341079e8b9db)
+
