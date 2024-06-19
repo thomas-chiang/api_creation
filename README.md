@@ -30,5 +30,5 @@ docker-compose down --rmi all
 ```
 
 ## Demo
-![demo](https://github.com/thomas-chiang/api_creation/assets/84237929/0aa22e6d-ac81-4a3f-a485-341079e8b9db)
+![api_creation](https://github.com/thomas-chiang/api_creation/assets/84237929/6e72e5c1-2347-486f-8184-12661fabc8bb)
 
